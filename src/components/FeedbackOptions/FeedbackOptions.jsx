@@ -1,4 +1,4 @@
-import { BtnWrapper, Button } from "components/Feedback/Feedback-styled";
+import { BtnWrapper, Button } from "./Feedback-styled";
 
 export const FeedbackOptions = ({ options, onLeaveFeedback }) => {
     return (

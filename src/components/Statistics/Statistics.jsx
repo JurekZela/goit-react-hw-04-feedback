@@ -5,8 +5,8 @@ export const Statistics = (
     good,
     neutral,
     bad,
-    total = 0,
-    positivePercentage = 0,
+    total,
+    positivePercentage,
   }
 ) => {
 if (good || neutral || bad) {

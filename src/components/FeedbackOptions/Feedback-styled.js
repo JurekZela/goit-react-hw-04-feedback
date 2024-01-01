@@ -16,7 +16,8 @@ color: ${({theme:{ colors } }) => colors.white};
 
 &:hover {
     background-color: #88B2AB;
-}`;
+}
+`;
 
 export const BtnWrapper = styled.ul`
   display: flex;
