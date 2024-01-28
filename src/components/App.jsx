@@ -56,5 +56,5 @@ export const App = () => {
           />
         </Section>
         </FeedbackCard>
-    );
+    )
   };
